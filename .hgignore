@@ -1,0 +1,7 @@
+syntax: glob
+LSystem/.vs/
+*.csproj
+LSystem/Library/
+LSystem/LSystem.sln
+LSystem/obj/
+LSystem/Logs/
